@@ -18,22 +18,22 @@
                                   </p>
                                 </a>
                             </li>
-                            <liclass="nav-item">
+                            <li class="nav-item">
                                 <a href="">
                                   <i></i>
                                   <p>Invoice</p>
                                 </a></li>
-                            <liclass="nav-item">
+                            <li class="nav-item">
                                 <a href="">
                                   <i></i>
                                   <p>Invoice</p>
                                 </a></li>
-                            <liclass="nav-item">
+                            <li class="nav-item">
                                 <a href="">
                                   <i></i>
                                   <p>Invoice</p>
                                 </a></li>
-                            <liclass="nav-item">
+                            <li class="nav-item">
                                 <a href="">
                                   <i></i>
                                   <p>Invoice</p>
